@@ -13,6 +13,8 @@ var BMIJerry = jerryMass / (jerryHeight**2); // mass body index of jerry
 // creating the higher BMI
 var higherBMI = BMITom > BMIJerry // created a vairable to compare the BMI's of Tom & JErry
 
+
+//getting the console log to show in the terminal
 console.log(`Is Tom's BMI higher than Jerry's? ${higherBMI}`)
 console.log(BMITom)
 console.log(BMIJerry)
